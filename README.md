@@ -47,10 +47,14 @@ on va ajouter les test unitere a workflow :
 <img width="859" height="741" alt="image" src="https://github.com/user-attachments/assets/9a035b65-426b-48f7-bdc8-d831dff3566d" />
 
 Nous avons modifié le fichier *ExampleUnitTest* pour provoquer une erreur volontaire :
-<img width="859" height="741" alt="image" src="https://github.com/user-attachments/assets/d3ea38a9-9db1-4c6e-bb3f-480da23fb460" />
+<img width="975" height="202" alt="image" src="https://github.com/user-attachments/assets/b003feb8-14e3-44f7-9b1d-b6903335b5a9" />
+
+
 Après push, GitHub Actions détecte l’erreur :
 <img width="975" height="112" alt="image" src="https://github.com/user-attachments/assets/139b05dd-9f31-4b7e-b8be-4bdee1a60122" />
+.
 <img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/c1ea13a6-f5b7-4f64-9dee-585830133ded" />
+.
 <img width="975" height="498" alt="image" src="https://github.com/user-attachments/assets/8c6f448b-d6ca-42eb-b174-9182a8d24ae5" />
 
 ## 4. Correction des tests
