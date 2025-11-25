@@ -15,10 +15,12 @@ L’objectif du TP est de configurer un workflow CI (Continuous Integration) per
 
 Nous avons d’abord créé un fichier de workflow dans :
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/982cad4f-0539-4a69-b697-ae1f24d04737" />
 .github/workflows/android-ci.yml
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/982cad4f-0539-4a69-b697-ae1f24d04737" />
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6c6df337-a8fd-4d08-8d41-00329c84620b" />
+<img width="975" height="476" alt="image" src="https://github.com/user-attachments/assets/cf38ac2a-0bdb-43ec-bded-39ce7b8f5bf4" />
+
+
 
 ##  2. Création du projet Android & premier push
 
@@ -26,20 +28,20 @@ Après avoir généré le projet Android, nous l'avons poussé sur GitHub.
 Dès le premier push, le workflow s'est exécuté automatiquement.
 
 ✔️ Création du projet Android
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/82f506e6-88c5-437b-9421-3fa735dd496d" />
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5a0bd0c2-3ae4-4e68-b2b3-5bbcbeffb236" />
 
 
 ✔️ Dépôt GitHub après push
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/466afb2f-f362-4b82-8d5b-4d1fba456159" />
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6f3b94f9-3d48-4ede-8829-5dbca4d4163b" />
 
 
 ✔️ Détection automatique par GitHub Actions
 
 Le workflow commence automatiquement :
+<img width="975" height="495" alt="image" src="https://github.com/user-attachments/assets/204da5ae-7ee6-49f2-9580-527a781eefc3" />
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eb99baf8-489e-4f36-ba7c-6650dfba0b35" />
 
 ## 3. Test Unitaire & Déclenchement du workflow
    
